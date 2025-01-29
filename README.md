@@ -8,6 +8,9 @@ This Power BI dashboard analyzes sales and profit trends for Reliance Smart. It 
 - **Visualizations**: Year-wise trends, country-wise sales, product brand analysis.
 - **Business Insights**: Top customers, return trends, membership card profitability.
 
+- ## 📷 Screenshots
+![Dashboard Preview](screenshot/dashboard.pdf)
+
 ## 📂 Files Included
 - `Reliance_Smart_Sales.pbix` - Power BI dashboard file.
 - `Dataset.csv` - Sales dataset used for analysis.
