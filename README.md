@@ -1,9 +1,3 @@
-# Power BI Dashboard - Reliance Smart Sales  
-
-Power BI dashboard analyzing **sales, revenue, profit, and customer trends** for Reliance Smart.  
-Includes **KPIs, data visualizations, and insights** to help drive data-driven decisions.
-
-
 # Reliance Smart Sales - Power BI Dashboard
 
 ## 📊 Project Overview
